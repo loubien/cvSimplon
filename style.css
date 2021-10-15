@@ -1,0 +1,58 @@
+body{
+    margin:0px ;
+    padding: 0px;
+
+}
+
+.entete{
+    flex-direction: column;
+    background-color:#EDDEA4;
+    display: flex;
+   text-align: center;
+   font-family: 'Open Sans', sans-serif;
+
+}
+.mere {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Open Sans', sans-serif;
+    color:white;
+    background-color:#21A179 ;
+    padding: 30px;
+    
+}
+
+}
+.gauche{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+
+.droit{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Open Sans', sans-serif;
+  
+    
+}
+
+    
+.do{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    color: vert;
+
+}
+
+.boite{
+   background-color: beige;
+}
+
+
+
+
+
